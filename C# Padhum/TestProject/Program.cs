@@ -4,6 +4,7 @@
 // int largerValue = Math.Max(firstValue, secondValue);
 // Console.WriteLine(largerValue);
 
+//-------------------------------------------------------------------------------------------------------------------------------------
 
 //      Second
 // Random dice = new Random();
@@ -64,26 +65,83 @@
 //     Console.WriteLine($"But hey, You won a kitten!");
 // }
 
-//      Third
-Random random = new Random();
-int daysUntilExpiration = random.Next(12);
-int discountPercentage = 0;
+//-------------------------------------------------------------------------------------------------------------------------------------
 
-if (daysUntilExpiration == 0)
+//      Third
+// Random random = new Random();
+// int daysUntilExpiration = random.Next(12);
+// int discountPercentage = 0;
+
+// if (daysUntilExpiration == 0)
+// {
+//     Console.WriteLine($"Your subscription has expired. {daysUntilExpiration} days were left.");
+// }
+// else if (daysUntilExpiration == 1)
+// {
+//     discountPercentage += 20;
+//     Console.WriteLine(@$"Your subscription expires in {daysUntilExpiration} days.{Environment.NewLine} Renew now and save {discountPercentage}%!");
+// }
+// else if (daysUntilExpiration <= 5)
+// {
+//     discountPercentage += 10;
+//     Console.WriteLine(@$"Your subscription expires in {daysUntilExpiration} days.{Environment.NewLine} Renew now and save {discountPercentage}%!");
+// }
+// else if (daysUntilExpiration <= 10)
+// {
+//     Console.WriteLine($"Your subscription will expire soon. Renew now!{daysUntilExpiration} days left.");
+// }
+
+//-------------------------------------------------------------------------------------------------------------------------------------
+
+//      Fourth
+
+// string[] fraudulentOrderIDs = new string[3];
+
+// fraudulentOrderIDs[0] = "A123";
+// fraudulentOrderIDs[1] = "B456";
+// fraudulentOrderIDs[2] = "C789";
+// fraudulentOrderIDs[3] = "D000";
+// string[] fraudulentOrderIDs = { "A123", "B456", "C789" };
+
+// Console.WriteLine($"First: {fraudulentOrderIDs[0]}");
+// Console.WriteLine($"Second: {fraudulentOrderIDs[1]}");
+// Console.WriteLine($"Third: {fraudulentOrderIDs[2]}");
+// fraudulentOrderIDs[0] = "F000";
+
+// Console.WriteLine($"Reassign First: {fraudulentOrderIDs[0]}"); //to demonstrate that arrays can be assigned and reassigned like variabels
+// Console.WriteLine($"There are {fraudulentOrderIDs.Length} fraudulent orders to process."); //length counts the number if element that array has
+
+// int [] inventory = {200, 450, 700, 175, 250 };
+// int sum = 0;
+// int bin = 0;
+// foreach (int items in inventory){
+//     sum += items;
+//     bin++;
+//     Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
+// }
+
+// Console.WriteLine($"We have {sum} items in inventory.");
+
+//Selecting the elements of array selectively
+
+string[] fraudulentOrderIDs = { "B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179" };
+foreach (string orderId in fraudulentOrderIDs)
 {
-    Console.WriteLine($"Your subscription has expired. {daysUntilExpiration} days were left.");
+    if (orderId.StartsWith("B"))
+    {
+        Console.WriteLine($"{orderId}");
+    }
 }
-else if (daysUntilExpiration == 1)
-{
-    discountPercentage += 20;
-    Console.WriteLine(@$"Your subscription expires in {daysUntilExpiration} days.{Environment.NewLine} Renew now and save {discountPercentage}%!");
-}
-else if (daysUntilExpiration <= 5)
-{
-    discountPercentage += 10;
-    Console.WriteLine(@$"Your subscription expires in {daysUntilExpiration} days.{Environment.NewLine} Renew now and save {discountPercentage}%!");
-}
-else if (daysUntilExpiration <= 10)
-{
-    Console.WriteLine($"Your subscription will expire soon. Renew now!{daysUntilExpiration} days left.");
-}
+
+
+
+
+
+
+
+
+
+
+
+
+

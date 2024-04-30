@@ -12,3 +12,18 @@ D:\C# Padhum\TestProject\obj\Debug\net8.0\refint\TestProject.dll
 D:\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.pdb
 D:\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 D:\C# Padhum\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\bin\Debug\net8.0\TestProject.exe
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\bin\Debug\net8.0\TestProject.deps.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\bin\Debug\net8.0\TestProject.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\bin\Debug\net8.0\TestProject.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\TestProject\obj\Debug\net8.0\ref\TestProject.dll
