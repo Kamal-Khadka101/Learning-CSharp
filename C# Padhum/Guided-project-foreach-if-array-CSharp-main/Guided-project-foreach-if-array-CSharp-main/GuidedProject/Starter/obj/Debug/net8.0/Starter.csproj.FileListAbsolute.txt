@@ -1,0 +1,15 @@
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.exe
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.deps.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.runtimeconfig.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\bin\Debug\net8.0\Starter.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfoInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.AssemblyInfo.cs
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.sourcelink.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\refint\Starter.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\Starter.genruntimeconfig.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\Guided-project-foreach-if-array-CSharp-main\Guided-project-foreach-if-array-CSharp-main\GuidedProject\Starter\obj\Debug\net8.0\ref\Starter.dll
