@@ -1,7 +1,7 @@
 ﻿using System;
 
 // initialize variables - graded assignments 
-int currentAssignments = 5;
+int examAssignments = 5;
 
 // Student names
 
@@ -42,11 +42,20 @@ foreach (string name in studentNames)
 
     decimal currentStudentGrade = 0;
 
+    int gradeAssignmets = 0;
+
     foreach (int score in studentScores)
     {
-        sumAssignmentScores += score;
+        gradeAssignmets = +1;
+        if (gradedAssignments <= examAssignments)
+            // add the exam score to the sum
+            sumAssignmentScores += score;
+
+        else
+            // add the extra credit points to the sum - bonus points equal to 10% of an exam score
+            sumAssignmentScores += score / 10;
     }
-    currentStudentGrade = (decimal)sumAssignmentScores / currentAssignments;
+    currentStudentGrade = (decimal)sumAssignmentScores / examAssignments;
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -83,6 +92,8 @@ foreach (string name in studentNames)
 
     else if (currentStudentGrade >= 60)
         currentStudentLetterGrade = "D-";
+    else
+        currentStudentLetterGrade = "F";
 
     Console.WriteLine($"{currentStudent}\t\t {currentStudentGrade}\t{currentStudentLetterGrade}");
 }
