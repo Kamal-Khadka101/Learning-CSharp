@@ -139,24 +139,54 @@
   consist of a letter from A to E, and a three
   digit number. Ex. A123.
 */
-Random random = new Random();
-string[] orderIDs = new string[5];
+// Random random = new Random();
+// string[] orderIDs = new string[5];
 
-for (int i = 0; i < orderIDs.Length; i++)
-{
-    int prefixValue = random.Next(65, 70);
-    string prefix = Convert.ToChar(prefixValue).ToString();
-    string suffix = random.Next(1, 1000).ToString("000");
+// for (int i = 0; i < orderIDs.Length; i++)
+// {
+//     int prefixValue = random.Next(65, 70);
+//     string prefix = Convert.ToChar(prefixValue).ToString();
+//     string suffix = random.Next(1, 1000).ToString("000");
 
-    orderIDs[i] = prefix + suffix;
-}
+//     orderIDs[i] = prefix + suffix;
+// }
 
-foreach (var orderID in orderIDs)
-{
-    Console.WriteLine(orderID);
-}
+// foreach (var orderID in orderIDs)
+// {
+//     Console.WriteLine(orderID);
+// }
 
+//                                      C# Part 3 Module 1
+// Console.WriteLine("a" == "a");
+// Console.WriteLine("a" == "A");
+// Console.WriteLine(1 == 2);
 
+// string myValue = "a";
+// Console.WriteLine(myValue == "a");
+//    Replacing the value to work with functions
+// string value1 = " a";
+// string value2 = "A ";
+// Console.WriteLine(value1.Trim().ToLower() == value2.Trim().ToLower());
+//    Inequality Operator
+// Console.WriteLine("a" != "a");
+// Console.WriteLine("a" != "A");
+// Console.WriteLine(1 != 2);
+
+// string myValue = "a";
+// Console.WriteLine(myValue != "a");
+//    Comparision Operator
+// Console.WriteLine(1 > 2);
+// Console.WriteLine(1 < 2);
+// Console.WriteLine(1 >= 1);
+// Console.WriteLine(1 <= 1);
+//    Methods that return a Boolean
+// string pangram = "The quick brown fox jumps over the lazy dog.";
+// Console.WriteLine(pangram.Contains("fox"));
+// Console.WriteLine(pangram.Contains("cow"));
+//    Using a negation operator "!"
+// string pangram = "The quick brown fox jumps over the lazy dog.";
+// Console.WriteLine(!pangram.Contains("fox"));
+// Console.WriteLine(!pangram.Contains("cow"));
 
 
 
