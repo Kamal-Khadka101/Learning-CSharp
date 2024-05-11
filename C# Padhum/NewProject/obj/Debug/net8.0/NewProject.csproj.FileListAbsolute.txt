@@ -1,0 +1,15 @@
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\bin\Debug\net8.0\NewProject.exe
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\bin\Debug\net8.0\NewProject.deps.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\bin\Debug\net8.0\NewProject.runtimeconfig.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\bin\Debug\net8.0\NewProject.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\bin\Debug\net8.0\NewProject.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.AssemblyInfoInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.AssemblyInfo.cs
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.sourcelink.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\refint\NewProject.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\NewProject.genruntimeconfig.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\NewProject\obj\Debug\net8.0\ref\NewProject.dll
