@@ -1,0 +1,15 @@
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.AssemblyInfoInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.AssemblyInfo.cs
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.csproj.CoreCompileInputs.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.sourcelink.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\bin\Debug\net8.0\VariableScope.exe
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\bin\Debug\net8.0\VariableScope.deps.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\bin\Debug\net8.0\VariableScope.runtimeconfig.json
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\bin\Debug\net8.0\VariableScope.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\bin\Debug\net8.0\VariableScope.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\refint\VariableScope.dll
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.pdb
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\VariableScope.genruntimeconfig.cache
+D:\GitHub Repositories\Learning-CSharp\C# Padhum\VariableScope\obj\Debug\net8.0\ref\VariableScope.dll
